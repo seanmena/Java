@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package ex.pkg3.comp.pkgint;
+package Ex2;
 
 import javax.swing.JOptionPane;
 
@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
  *
  * @author sean
  */
-public class Ex3CompInt {
+public class Interest {
 
     /**
      * @param args the command line arguments
